@@ -1,0 +1,21 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul,li,ol{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+.header{
+	height:173px;
+	background-color:#eeeeef;
+}
+.logo{
+	text-align:center;
+	height:125px;
+}
+.logo img{
+	margin-top:30px;
+}

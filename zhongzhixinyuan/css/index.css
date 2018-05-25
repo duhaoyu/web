@@ -1,0 +1,257 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+a{
+	text-decoration:none;
+}
+
+.header{
+	height:173px;
+	background-color:#eeeeef;
+	list-style:none;
+}
+.logo{
+	text-align:center;
+	height:125px;
+}
+.logo img{
+	margin-top:30px;
+}
+.nav{
+	width:670px;
+	height:45px;
+	background-color:#fff;
+	margin:0 auto;
+	border-radius:23px;
+}
+.nav li{
+	float:left;
+	height:45px;
+	padding:0 30px;
+	line-height:45px;
+    font-size:14px;
+	background:url(../images/line.png)no-repeat right center;
+	list-style:none;
+}
+.nav li a{
+	display:block;
+	height:42px;
+	border-bottom:3px solid #1e50ae;
+}
+.nav li:last-child{
+	background:none;
+}
+.banner{
+	width:100%;
+	height:405px;
+	background:url(../images/tu.gif)no-repeat center center;
+}
+.serve{
+	width:1200px;
+	height:809px;
+	margin:0 auto;
+}
+.a{
+	padding-top:61px;
+}
+.b{
+	padding-top:25px;
+}
+.one{
+	float:left;width:307px;height:380px;
+}
+.two{
+	float:left;width:307px;height:380px;
+}
+.three{
+	float:left;width:307px;height:380px;
+}
+.four{
+	float:left;height:380px;
+}
+.five{
+	float:left;width:307px;height:247px;
+}
+.six{
+	float:left;width:307px;height:247px;
+}
+.seven{
+	float:left;width:307px;height:247px;
+}
+.eight{
+	float:left;height:247px;
+}
+.first{
+	margin-left:42px;
+}
+.second{
+	margin-left:42px;
+	color:gray;
+}
+.third{
+	width:100%;
+	height:712px;
+	background:url(../images/blue.gif)no-repeat center;
+}
+.forth{
+	float:left;
+	margin-top:150px;
+}
+.fifth{
+	margin-left:280px;
+}
+.sixth{
+	margin-left:60px;
+}
+.seventh{
+	padding-top:45px;
+	color:white;
+}
+.eighth{
+	padding-top:15px;
+    color:white;
+}
+.ninth{
+	width:230px;
+	height:50px;
+	border-radius:23px;
+	background:none;
+	border:1px solid#fff;
+	color:#fff;
+	font-size:20px;
+	list-style:none;
+}
+.ten{
+	width:100%;
+	height:700px;
+}
+.eleven{
+	margin-top:100px;
+}
+.twelve{
+	margin-top:20px;
+}
+.thirteen{
+	margin-top:500px;
+	margin-left:750px;
+}
+.forteen{
+	width:750px;
+	height:352px;
+	float:left;
+}
+.fifteen{
+	margin-left:260px;
+}
+.sixteen{
+	margin-left:160px;
+	margin-top:50px;
+}
+.seventeen{
+	margin-left:160px;
+	color:gray;
+}
+.eighteen{
+	margin-left:160px;
+	margin-top:20px;
+	color:gray;
+}
+.ninteen{
+	padding-left:150px;
+	color:gray;
+}
+.twenty{
+	width:190px;
+	height:50px;
+	border-radius:23px;
+	background:white;
+	border:1px solid blue;
+	color:black;
+	font-size:20px;
+	list-style:none;
+	margin-left:160px;
+	margin-top:20px;
+}
+.thirty{
+	width:100%;
+	height:220px;
+	background-color:#eeeeee;
+	list-style:none;
+	margin-top:30px;
+}
+.forty{
+	width:50px;
+	height:50px;
+	float:right;
+	
+}
+.fifty{
+	width:350px;
+	height:50px;
+	float:right;
+}
+.sixty{
+	padding-top:50px;
+}
+.seventy{
+	width:50px;
+	height:50px;
+	float:right;
+}
+.eighty{
+	width:100%;
+	height:380px;
+	background:url(../images/black.gif)no-repeat center;
+}
+.du{
+	width:630px;
+	height:200px;
+	background-color:none;
+	float:left;
+	margin-left:200px;
+	margin-top:60px;
+	color:white;
+}
+.hao{
+	width:187px;
+	height:200px;
+	background-color:none;
+	float:left;
+	margin-top:60px;
+}
+.yu{
+	width:53px;
+	height:200px;
+	background-color:none;
+	float:left;
+	margin-top:60px;
+	color:white;
+}
+.li{
+	width:30px;
+	height:200px;
+	background-color:none;
+	float:left;
+	margin-top:60px;
+	color:white;
+}
+.chun{
+	width:340px;
+	height:200px;
+	background-color:none;
+	float:left;
+	margin-top:60px;
+	color:white;
+}
+.xiao{
+	margin-top:30px;
+}
+.wu{
+	margin-top:20px;
+	margin-left:65px;
+}
+.yang{
+	color:gray;
+}
