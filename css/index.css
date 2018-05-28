@@ -1,0 +1,302 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*header star*/
+.header{
+	height: 173px;
+	background-color: #eeeeef;
+}
+.logo{
+	padding-top: 30px;
+	text-align: center;
+	height: 95px;
+}
+.nav{
+	width: 670px;
+	height: 45px;
+	background-color: #fff;
+	margin: 0 auto;
+	border-radius: 22px;
+	text-align: center;
+}
+.nav li{
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	font-size: 14px;
+	background: url(./line.png);
+}
+.nav li a{
+	display: block;
+	height: 42px;
+	border-bottom: 3px solid #1e50ea;
+}
+.nav li b{
+	display: block;
+	height: 42px;
+}
+.nav .last{
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+}
+.banner{
+	width: 100%;
+	height: 405px;
+	text-align: center;}
+.se{
+	font-size: 34px;
+	text-align: center;
+	margin-top:70px;
+	margin-bottom: 63px;
+	line-height: 55px;
+}
+.big{
+	height: 200px;
+	width: 1560px;
+	text-align: center;
+	 
+}
+.hi{
+	height: 610px;
+	width: 1560px;
+	margin-left: 300px;
+}
+.little{
+	height: 400px;
+	width: 1560px;
+	float: left;
+}
+.little1{
+	height: 200px;
+	width: 1560px;
+	float: left;
+}
+.bu{
+	height: 370px;
+	width: 150px;
+	float: left;
+	margin-right: 100px;
+}
+.tom{
+	height: 370px;
+	width: 150px;
+	float: left;
+	margin-right: 160px;
+}
+.bu1{
+	height: 370px;
+	width: 150px;
+	float: left;
+	margin-right: 100px;
+}
+.tom1{
+	width: 250px;
+	float: left;
+	text-align: center;
+	padding-right: 10px;
+}
+.center{
+	font-size: 17px;
+	color: #000;
+	line-height:20px;
+	margin-left: 30px;
+}
+.center1{
+	font-size: 14px;
+	color: #c8c8c8;
+	line-height: 20px;
+	margin-left: 30px;
+	list-style: disc;
+}
+.f{
+	text-align: center;
+}
+	
+.gongshang{
+     font-size: 16px;
+     text-align: center;
+}
+.gs{
+	font-size: 14px;
+	color: #cbcbcb;
+}
+.sol{
+	font-size: 34px;
+	color:#ffffff;
+	text-align: center; 
+}
+.weite{
+	height: 150px;
+	width: 1560px;
+	text-align: center;
+}
+.fun{
+	height: 750px;
+	width: 1560px;
+}
+.fun1{
+	height: 330px;
+	width: 1560px;
+	float: left;
+	margin-left: 250px;
+}
+.fun2{
+	height: 330px;
+	width: 570px;
+	float: left;
+}
+.fun3{
+	height: 330px;
+	width: 990px;
+	float: left;
+}
+.fun4{
+	height: 150px;
+	width: 990px;
+	float: left;
+}
+.fun5{
+	height: 180px;
+	width: 990px;
+	float: left;
+}
+.z{
+	font-size: 22px;
+	line-height: 50px;
+}
+.y{
+	font-size: 14px;
+	line-height: 30px;
+	color: #b6b6b6;
+}
+.fun6{
+	height: 420px;
+	width: 1560px;
+	float: left;
+}
+.fun7{
+	height: 420px;
+	width: 600px;
+	text-align: center;
+	float: left;
+	margin-left: 150px;
+	margin-right: 50px;
+}
+.fun8{
+	height: 420px;
+	width: 600px;
+	text-align: center;
+	float: left;
+}
+.hello{
+	height: 100px;
+	width: 1560px;
+	text-align: center;
+	background-color: #b6b6b6;
+}
+.hello1{
+	height: 100px;
+	width: 300px;
+	float: left;
+	padding-left: 70px;
+}
+.hello2{
+	height: 100px;
+	width: 100px;
+	text-align: center;
+	margin-top: 25px;
+	float: left;
+}
+.hello3{
+	height: 100px;
+	width: 200px;
+	float: left;
+	margin-top: 25px;
+}
+.g{
+	font-size: 20px;
+}
+.k{
+	font-size: 13px;
+	line-height: 20px;
+}
+.wold{
+	height: 250px;
+	width: 1560px;
+	border-bottom-color: #9c9c9c;
+	border-style: solid;
+	background-color: #323232;
+}
+.wold1{
+	height: 150px;
+	width: 80px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 60px;
+}
+.wold2{
+	height: 150px;
+	height: 150px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 60px;
+}
+.wold3{
+	height: 150px;
+	width: 60px;
+	border-right-color: #9c9c9c;
+	border-style: solid;
+	float: left;
+	margin-left: 50px;
+	margin-top: 60px;
+}
+.wold4{
+	height: 150px;
+	width: 250px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 60px;
+}
+.v{
+	line-height: 30px;
+	font-size: 18px;
+	color: #fff;
+}
+.s{
+	line-height: 50px;
+	font-size: 14px;
+	color: #fff;
+}
+.q{
+	line-height: 70px;
+	font-size: 18px;
+	color: #fff；
+}
+.p1{
+	height: 30px;
+	width: 30px;
+	float: left;
+}
+.print{
+	height: 125px;
+	width: 1560px;
+	float: left;
+	text-align: center;
+	background-color: #323232;
+	padding-top: 20px;
+}
+.r{
+	font-size: 14px;
+	line-height: 40px;
+	color: #fff;
+}
