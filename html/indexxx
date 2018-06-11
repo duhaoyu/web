@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+            <meta charset="utf-8"/>
+	<title>英华逸游</title>
+    <link rel="stylesheet" href="../csss/indexxx.css">
+    </head>
+    <body>
+    <div class="header">
+           <img class="b" src="../images/7_03.jpg">
+           <p class="a">400-808-8682&nbsp;&nbsp;&nbsp;请登录&nbsp;|&nbsp;注册&nbsp;&nbsp;&nbsp;</p>
+           </div>
+
+
+           <div class="c">
+
+           <div class="e">
+           <img class="d" src="../images/8_10.jpg">
+           </div>
+
+           <div class="h">
+            <ul class="nav">
+                 <li>
+                     首页
+                 </li>
+                 <li>
+                     目的地                 
+                </li>
+                 <li>
+                    亲子游学
+                 </li>
+                 <li>
+                    <a >酒店预订</a>
+                 </li>
+                 <li>
+                    车辆接送
+                 </li>
+                 <li>
+                    签证代办
+                 </li>
+                 <li>
+                 精彩瞬间
+                 </li>
+            </ul>
+            </div>
+           </div>
+
+
+
+       <div class="i">
+       	<div class="j">
+       	<div class="o">
+     <div class="k"><p class="l">姓名</p><form>  
+     <input type = "text" name = "firstname"  style="width:430px;height:25px;"/> <br />
+    
+</form>   </div>  		
+     
+
+      <div class="n"><p class="l">手机&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;验证码</p><form> 
+     <input type = "text" name = "firstname" style="width:150px;height:25px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+     <input type = "text"  name = "lastname" style="width:60px;height:25px;" /> &nbsp;&nbsp;&nbsp;
+     <button class="m">获取验证码</button>
+    
+</form>   </div>
+
+       	<div class="n"><p class="l">目的地</p><form>  
+     <input type = "text" name = "firstname" placeholder="&nbsp;若暂无用户名可不填写" style="width:430px;height:25px;"/> 
+    
+</form>   </div>  	
+
+
+
+       	<div class="n"><p class="l">出行天数&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;出发时间</p><form>  
+     <select name = "class"  style="width:150px;height:35px;">
+          <option value = "one" >暂不确定 </option>
+          <option value = "two">  1天</option>
+          <option value = "three">2天 </option>
+       </select>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+          <select name = "class"  style="width:150px;height:35px;">
+          <option value = "one" > </option>
+          <option value = "two">  1月</option>
+          <option value = "three">2月 </option>
+       </select>
+
+    
+</form>   </div> 
+
+
+        	<div class="n"><p class="l">出行方式&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;成人&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;儿童</p><form>  
+     <select name = "class"  style="width:120px;height:35px;">
+          <option value = "one" >不确定 </option>
+          <option value = "two">  1天</option>
+          <option value = "three">2天 </option>
+       </select>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+          <select name = "class"  style="width:120px;height:35px;">
+          <option value = "one" >不确定</option>
+          <option value = "two">  1月</option>
+          <option value = "three">2月 </option>
+       </select>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        
+         <select name = "class"  style="width:120px;height:35px;">
+          <option value = "one" >不确定</option>
+          <option value = "two">  1月</option>
+          <option value = "three">2月 </option>
+       </select>
+</form>   </div>  
+
+
+            	<div class="n"><p class="l">其它要求</p><form>  
+     <input type = "text" name = "firstname"  style="width:430px;height:100px;"/> 
+    
+</form>   </div>  
+
+</div>	
+
+
+
+
+
+       <div class="p">
+       <p align="center" class="q">--------------------服务流程--------------------</p>
+       <div class="r">
+       	<img class="" src="../images/32_03.jpg">
+       </div>
+       <p align="center" class="q">--------------------服务优势--------------------</p>
+       <div class="s">
+       <div class="t">
+       <img class="u" src="../images/33_07.jpg">
+       </div>
+       <p class="v">不跟团，不自助，第三种旅行服务方式</p>
+       <p class="w">.行程自由，省时省心</p>
+       <p class="w">.亲友小团，深度体验</p>
+       <p class="w">.兴趣细分，个性出行</p>
+       <p class="w">.服务全面，价格透明</p>
+
+       </div>
+
+
+
+        <div class="s">
+       <div class="t">
+       <img class="u" src="../images/34_10.jpg">
+       </div>
+       <p class="v">轻奢华.深体验 让旅行更贴近生活</p>
+       <p class="w">有机会与5星酒店大厨拜师学艺</p>
+       <p class="w">不走寻常路，体验当地特色文化</p>
+       <p class="w">下榻当地5星豪华酒店/别墅</p>
+       <p class="w">专车私导服务，保障舒适出行</p>
+
+       </div>
+
+
+       </div>		 		
+
+
+
+
+
+
+
+
+
+
+       	</div>
+
+
+
+
+
+
+       </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="seven">
+
+           <div class="eight">
+           <div class="ten">
+           <h3 class="ninteen">关于我们&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;网站须知&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;支付方式&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关注英华逸游</h3>
+           </div>
+
+           <div class="eleven">
+           <p class="ninteen">公司简介&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;预订须知&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;支付宝</p>
+           <p class="ninteen">团队介绍&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;网站条约&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;微信&nbsp;</p>
+           <p class="ninteen">帮助文档&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上门刷卡</p>
+
+           </div>
+
+
+           <div class="twelve">
+           <img class="" src="../images/20_12.jpg" >
+           <img class="" src="../images/21_15.jpg">
+           </div>
+
+          <div class="thirteen">
+             <img class="" src="../images/22_19.jpg">
+          </div>
+
+
+
+
+
+           </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           <div class="nine">
+           <div class="fourteen">
+           <img class="" src="../images/23_11.jpg">
+             
+           </div>
+           <div class="fifteen">
+           <h2 class="li">资讯热线</h2>
+           </div>
+           <div class="sixteen">
+           <p class="chun">400-808-8682</p>
+           <p class="chun">0512-86862063</p>
+
+           </div>
+           <div class="seventeen">
+           <p class="ninteen">邮箱：cs@yhyiyou.com</p>
+           <p class="ninteen">地址：苏州市姑苏区三元二村16号兴元楼2楼东</p>
+
+           </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           </div>
+            <hr/ class="xiao">
+
+
+
+          <div class="wu">
+          <div class="yang"><h3>合作伙伴</h3></div>
+          <div class="gao"> <img class="" src="../images/25_33.jpg"></div>
+          <div class="gao"> <img class="" src="../images/26_33.jpg"></div>
+          <div class="gao"> <img class="" src="../images/27_35.jpg"></div>
+          <div class="gao"> <img class="" src="../images/28_37.jpg"></div>
+          </div>
+
+          <div class="yan">
+          <div class="yang"><h3>热门位置</h3></div>
+          <div class="liu">韩国&nbsp;&nbsp;&nbsp;日本&nbsp;&nbsp;&nbsp;菲律宾&nbsp;&nbsp;&nbsp;越南&nbsp;&nbsp;&nbsp;老挝&nbsp;&nbsp;&nbsp;柬埔寨&nbsp;&nbsp;&nbsp;泰国&nbsp;&nbsp;&nbsp;马来西亚&nbsp;&nbsp;&nbsp;新加坡&nbsp;&nbsp;&nbsp;印度尼西亚&nbsp;&nbsp;&nbsp;印度&nbsp;&nbsp;&nbsp;斯里兰卡&nbsp;&nbsp;&nbsp;土耳其&nbsp;&nbsp;&nbsp;阿联酋&nbsp;&nbsp;&nbsp;西班牙&nbsp;&nbsp;&nbsp;意大利&nbsp;&nbsp;&nbsp;希腊&nbsp;&nbsp;&nbsp;法国&nbsp;&nbsp;&nbsp;比利时&nbsp;&nbsp;&nbsp;荷兰&nbsp;&nbsp;&nbsp;英国&nbsp;&nbsp;&nbsp;瑞士&nbsp;&nbsp;&nbsp;奥地利&nbsp;&nbsp;&nbsp;德国&nbsp;&nbsp;&nbsp;匈牙利&nbsp;&nbsp;&nbsp;俄罗斯&nbsp;&nbsp;&nbsp;捷克&nbsp;&nbsp;&nbsp;芬兰&nbsp;&nbsp;&nbsp;葡萄牙&nbsp;&nbsp;&nbsp;冰岛&nbsp;&nbsp;&nbsp;美国&nbsp;&nbsp;&nbsp;加拿大&nbsp;&nbsp;&nbsp;巴西&nbsp;&nbsp;&nbsp;阿根廷&nbsp;&nbsp;&nbsp;澳大利亚&nbsp;&nbsp;&nbsp;新西兰</div>
+          </div>
+          
+          <div class="yan">
+          <div class="yang"><h3>主题服务</h3></div>
+          <div class="liu">海岛度假&nbsp;&nbsp;&nbsp;历史文化&nbsp;&nbsp;&nbsp;探索冒险&nbsp;&nbsp;&nbsp;美食购物&nbsp;&nbsp;&nbsp;都市生活&nbsp;&nbsp;&nbsp;海外游学&nbsp;&nbsp;&nbsp;游轮度假&nbsp;&nbsp;&nbsp;蜜月摄影&nbsp;&nbsp;&nbsp;亲子乐园</div>
+          </div>
+           
+
+            <div class="yan">
+          <div class="yang"><h3>友情链接</h3></div>
+          <div class="liu">马蜂窝&nbsp;&nbsp;&nbsp;穷游&nbsp;&nbsp;&nbsp;booking&nbsp;&nbsp;&nbsp;苏州旅游局&nbsp;&nbsp;&nbsp;驴友网&nbsp;&nbsp;&nbsp;吾爱全球签证中心&nbsp;&nbsp;&nbsp;酒店团购&nbsp;&nbsp;&nbsp;携程旅游攻略&nbsp;&nbsp;&nbsp;天巡职航在线&nbsp;&nbsp;&nbsp;满天飞旅游网&nbsp;&nbsp;&nbsp;中国旅游网&nbsp;&nbsp;&nbsp;澳乐网&nbsp;&nbsp;&nbsp;背包兔旅游行程&nbsp;&nbsp;&nbsp;出境旅游&nbsp;&nbsp;&nbsp;国际酒店&nbsp;&nbsp;&nbsp;广州旅行社&nbsp;&nbsp;&nbsp;517旅行&nbsp;&nbsp;&nbsp;花生游&nbsp;&nbsp;&nbsp;家园网&nbsp;&nbsp;&nbsp;海外婚礼</div>
+          </div>
+          
+
+
+
+
+           <hr/ class="xiao">
+          
+
+
+          <div class="xi" >
+          苏ICP备14019690号，2014-2017 @苏州英华国际旅游有限公司 版权所有
+
+          </div>
+          <div class="meng" >
+          技术支持 杭州联橙科技
+
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+           </div>
+
+
+     </body>
+    </html>

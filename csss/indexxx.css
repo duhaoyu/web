@@ -1,0 +1,283 @@
+body{
+	background:#eeeeef;
+}
+.header{
+	background-color:black;
+	height:42px;
+	margin:0 auto;
+}
+.a{
+	color:white;
+	margin-top:10px;
+	float:right;
+}
+.b{
+	margin-top:10px;
+	margin-left:1230px;
+}
+.c{
+	background-color:white;
+	height:79px;
+}
+.d{
+	margin-left:50px;
+	margin-top:10px;
+}
+.nav{
+	width:800px;
+	height:45px;
+	background-color:#fff;
+	margin:0 auto;
+	float:right;
+	margin-top:10px;
+	margin-left:500px;
+}
+.nav li{
+	float:left;
+	height:45px;
+	padding:0 30px;
+	line-height:45px;
+    font-size:15px;
+	list-style:none;
+}
+.nav li a{
+	display:block;
+	height:42px;
+	border-bottom:3px solid orange;
+	color:orange;
+}
+.nav li:last-child{
+	background:none;
+}
+.e{
+	width:300px;
+	height:79px;
+	float:left;
+}
+
+.h{
+	width:1200px;
+	height:75px;
+	float:left;
+}
+.seven{
+	height:797px;
+	background-color:black;
+	margin-top:123px;
+	margin:0 auto;
+}
+.eight{
+	width:818px;
+	height:268px;
+	background-color:black;
+	float:left;
+}
+.nine{
+	width:600px;
+	height:268px;
+	background-color:black;
+	float:left;
+}
+.ten{
+	width:686px;
+	height:39px;
+	background-color:black;
+	margin-top:60px;
+	margin-left:110px;
+}
+.eleven{
+	width:317px;
+	height:118px;
+	background-color:black;
+	margin-left:110px;
+	float:left;
+}
+.twelve{
+	width:211px;
+	height:118px;
+	background-color:black;
+	float:left;
+}
+.thirteen{
+	width:155px;
+	height:124px;
+	background-color:black;
+	float:left;
+	margin-top:20px;
+}
+.fourteen{
+	width:67px;
+	height:64px;
+	background-color:black;
+	margin-top:60px;
+	margin-left:90px;
+	float:left;
+}
+.fifteen{
+    width:123px;
+    height:62px;
+    background-color:black;
+    float:left;
+    margin-top:60px;
+}
+.sixteen{
+	width:230px;
+	height:90px;
+	background-color:black;
+	margin-top:60px;
+	float:left;
+}
+.seventeen{
+	width:356px;
+	height:76px;
+	background-color:black;
+	margin-left:157px;
+	margin-top:160px;
+}
+.ninteen{
+	color:white;
+}
+.li{
+	margin-top:10px;
+	color:white;
+}
+.chun{
+	font-size:20px;
+	color:white;
+	margin-top:10px;
+}
+.xiao{
+	color:gray;
+	width:1500px;
+}
+.wu{
+	width:565px;
+	height:99px;
+	background-color:black;
+	margin-left:110px;
+	margin-top:20px;
+}
+.yang{
+	width:92px;
+	height:48px;
+	color:white;
+	float:left;
+}
+.gao{
+	width:117px;
+	height:88px;
+	float:left;
+	margin-top:20px;
+}
+.yan{
+	width:1185px;
+	height:65px;
+	background-color:black;
+	margin-top:20px;
+	margin-left:110px;
+}
+.liu{
+	width:1050px;
+	height:45px;
+	background-color:black;
+	margin-top:20px;
+	float:left;
+	color:white;
+}
+.xi{
+	width:620px;
+	height:35px;
+	margin-top:20px;
+	margin-left:450px;
+	color:white;
+}
+.meng{
+	width:230px;
+	height:35px;
+	margin-left:650px;
+	color:white;
+}
+.i{
+	width:1500px;
+	height:1047px;
+	background-color:#eeeeef;
+	padding-top:10px;
+	background:url(../images/31_04.jpg)no-repeat right center;
+	margin:0 auto;
+}
+.j{
+	width:1193px;
+	height:810px;
+	background-color:#fcf4f3                                                                                                                                                                                                                                                                                                                                     ;
+	margin-top:150px;
+	margin-left:190px;
+	padding-top:10px;
+}
+.k{
+	width:460px;
+	height:83px;
+	background-color:#fcf4f3;
+	margin-top:35px;
+	margin-left:75px;
+}
+.l{
+	font-size:20px;
+}
+.m{
+	width:100px;
+	height:30px;
+	background-color:#e8420a;
+	color:white;
+}
+.n{
+	width:460px;
+	height:83px;
+	background-color:#fcf4f3;
+	margin-left:75px;
+}
+.o{
+	width:600px;
+	height:810px;
+	float:left;
+}
+.p{
+	width:593px;
+	height:810px;
+	float:left;
+	background-color:;
+}
+.q{
+	font-size:25px;
+}
+.r{
+	width:500px;
+	height:169px;
+	background-color:;
+	margin-left:36px;
+}
+.s{
+	width:500px;
+	height:169px;
+	background-color:;
+	margin-left:36px;
+}
+.t{
+	width:130px;
+	height:169px;
+	background-color:;
+	float:left;
+}
+.u{
+	margin-top:30px;
+	margin-left:20px;
+}
+.v{
+	color:#1c5080;
+    font-size:18px;
+}
+.w{
+	font-size:13px;
+}
+.x{
+	margin-top:20px;
+}

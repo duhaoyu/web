@@ -1,0 +1,354 @@
+body{
+	background:#eeeeef;
+}
+.header{
+	background-color:black;
+	height:42px;
+	margin:0 auto;
+}
+.a{
+	color:white;
+	margin-top:10px;
+	float:right;
+}
+.b{
+	margin-top:10px;
+	margin-left:1230px;
+}
+.c{
+	background-color:white;
+	height:79px;
+}
+.d{
+	margin-left:50px;
+	margin-top:10px;
+}
+.nav{
+	width:800px;
+	height:45px;
+	background-color:#fff;
+	margin:0 auto;
+	float:right;
+	margin-top:10px;
+	margin-left:500px;
+}
+.nav li{
+	float:left;
+	height:45px;
+	padding:0 30px;
+	line-height:45px;
+    font-size:15px;
+	list-style:none;
+}
+.nav li a{
+	display:block;
+	height:42px;
+	border-bottom:3px solid orange;
+	color:orange;
+}
+.nav li:last-child{
+	background:none;
+}
+.e{
+	width:300px;
+	height:79px;
+	float:left;
+}
+.f{
+	margin-top:47px;
+	margin-left:127px;
+	font-size:15px;
+}
+.g{
+	width:1202px;
+	height:574px;
+	background-color:white;
+	margin-left:127px;
+	margin:0 auto;
+}
+.h{
+	width:1200px;
+	height:75px;
+	float:left;
+}
+.i{
+	width:680px;
+	height:435px;
+	float:left;
+}
+.j{
+	width:502px;
+	height:435px;
+	float:right;
+}
+.k{
+	width:170px;
+	height:107px;
+	float:left;
+}
+.l{
+	color:gray;
+}
+.m{
+	margin-top:10px;
+	background-color:white;
+	width:1202px;
+	height:574px;
+	margin-left:127px;
+	margin:0 auto;
+}
+.n{
+	width:147px;
+	height:50px;
+	text-align:center;
+	color:white;
+	font-size:17px;
+}
+.o{
+	width:147px;
+	height:50px;
+	text-align:center;
+	color:black;
+	font-size:15px;
+}
+.p{
+	width:147px;
+	height:50px;
+	font-size:15px;
+}
+.q{
+	width:137px;
+	height:69px;
+}
+.r{
+	width:150px;
+	height:80px;
+	background-color:white;
+	float:right;
+}
+.s{
+	margin-top:20px;
+}
+.t{
+	width:80px;
+	height:69px;
+}
+.u{
+	font-size:9px;
+	color:gray;
+}
+.v{
+	width:180px;
+	height:80px;
+	background-color:white;
+	float:right;
+}
+.w{
+	width:600px;
+	height:30px;
+	background-color:white;
+	float:right;
+    margin-top:30px;
+}
+.x{
+    width:30px;
+    height:30px;
+    background-color:white;
+    float:right;
+    margin-top:35px;
+    font-size:15px;
+    margin-right:39px;
+}
+.y{
+    width:80px;
+    height:50px;¥
+    background-color:white;
+    float:right;
+    color:#e8420a;
+    font-size:30px;
+    margin-top:22px;
+}
+.z{
+    width:10px;
+    height:30px;
+    background-color:white;
+    float:right;
+    color:#e8420a;
+    margin-top:35px;
+}
+.one{
+	margin-top:10px;
+	background-color:white;
+	width:1202px;
+	oheight:1919px;
+	margin-left:127px;
+	margin:0 auto;
+}
+.two{
+	width:203px;
+	height:63px;
+	color:white;
+	font-size:20px;
+}
+.three{
+	width:159px;
+	height:39px;
+	margin-top:10px;
+	margin-left:38px;
+	background-color:white;
+	font-size:25px;
+	color:black;
+}
+.four{
+	width:1100px;
+	height:310px;
+	background-color:white;
+	margin-left:70px;
+	margin-top:10px;
+	color:gray;
+}
+.five{
+	margin-left:60px;
+}
+.six{
+	margin-left:60px;
+	color:gray;
+}
+.seven{
+	height:797px;
+	background-color:black;
+	margin-top:123px;
+	margin:0 auto;
+}
+.eight{
+	width:818px;
+	height:268px;
+	background-color:black;
+	float:left;
+}
+.nine{
+	width:600px;
+	height:268px;
+	background-color:black;
+	float:left;
+}
+.ten{
+	width:686px;
+	height:39px;
+	background-color:black;
+	margin-top:60px;
+	margin-left:110px;
+}
+.eleven{
+	width:317px;
+	height:118px;
+	background-color:black;
+	margin-left:110px;
+	float:left;
+}
+.twelve{
+	width:211px;
+	height:118px;
+	background-color:black;
+	float:left;
+}
+.thirteen{
+	width:155px;
+	height:124px;
+	background-color:black;
+	float:left;
+	margin-top:20px;
+}
+.fourteen{
+	width:67px;
+	height:64px;
+	background-color:black;
+	margin-top:60px;
+	margin-left:90px;
+	float:left;
+}
+.fifteen{
+    width:123px;
+    height:62px;
+    background-color:black;
+    float:left;
+    margin-top:60px;
+}
+.sixteen{
+	width:230px;
+	height:90px;
+	background-color:black;
+	margin-top:60px;
+	float:left;
+}
+.seventeen{
+	width:356px;
+	height:76px;
+	background-color:black;
+	margin-left:157px;
+	margin-top:160px;
+}
+.ninteen{
+	color:white;
+}
+.li{
+	margin-top:10px;
+	color:white;
+}
+.chun{
+	font-size:20px;
+	color:white;
+	margin-top:10px;
+}
+.xiao{
+	color:gray;
+	width:1500px;
+}
+.wu{
+	width:565px;
+	height:99px;
+	background-color:black;
+	margin-left:110px;
+	margin-top:20px;
+}
+.yang{
+	width:92px;
+	height:48px;
+	color:white;
+	float:left;
+}
+.gao{
+	width:117px;
+	height:88px;
+	float:left;
+	margin-top:20px;
+}
+.yan{
+	width:1185px;
+	height:65px;
+	background-color:black;
+	margin-top:20px;
+	margin-left:110px;
+}
+.liu{
+	width:1050px;
+	height:45px;
+	background-color:black;
+	margin-top:20px;
+	float:left;
+	color:white;
+}
+.xi{
+	width:620px;
+	height:35px;
+	margin-top:20px;
+	margin-left:450px;
+	color:white;
+}
+.meng{
+	width:230px;
+	height:35px;
+	margin-left:650px;
+	color:white;
+}
+
