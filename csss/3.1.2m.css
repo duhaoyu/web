@@ -44,6 +44,9 @@
 	float: left;
 	margin: 0 auto;
 }
+.zhutu img{
+	float: left;
+}
 .jieshao{
 	width: 750px;
 	height: 300px;
