@@ -1,0 +1,256 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.oppo{
+	width: 750px;
+	height: 367px;
+	float: left;
+}
+.oppo0{
+	font-size: 40px;
+	color: #1c5080;
+	float: left;
+	text-align: center;
+	margin-left: 175px;
+	margin-top: 70px;
+}
+.oppo1{
+	font-size: 28px;
+}
+.vivo{
+	height: 2430px;
+	width: 750px;
+	float: left;
+}
+.vivo0{
+	width: 350px;
+	height: 2000px;
+	float: left;
+}
+.vivo1{
+	height: 570px;
+	width: 350px;
+	float: left;
+	background-color: #f5f5f5;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.vivo1 img{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.vivo2{
+	font-size: 20px;
+	color: #000;
+	text-align: center;
+	line-height: 40px;
+	margin-top: 20px;
+}
+.vivo3{
+	color: #878787;
+	font-size: 20px;
+}
+.vivo4{
+	color: #e8420a;
+	font-size: 25px;
+	line-height: 60px;
+}
+.vivo5{
+	color: #000;
+	font-size: 25px;
+}
+.vivo6{
+	width: 156px;
+	height: 41px;
+	float: left;
+	text-align: center;
+	color: #fff;
+	background-color:#e8420a;
+	border-radius:15px;
+	margin-left: 100px;
+	margin-top: 20px;
+}
+.vivo7{
+	height: 777px;
+	width: 350px;
+	float: left;
+	background-color: #f5f5f5;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.vivo7 img{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.vivo8{
+	height: 615px;
+	width: 350px;
+	float: left;
+	background-color: #f5f5f5;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.vivo8 img{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.vivo9{
+	width: 350px;
+	height: 2135px;
+	float: left;
+	margin-left: 10px;
+}
+.vivo10{
+	height: 650px;
+	width: 350px;
+	float: left;
+	background-color: #f5f5f5;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.vivo10 img{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.vivo11{
+	height: 800px;
+	width: 350px;
+	float: left;
+	background-color: #f5f5f5;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.vivo11 img{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.vivo12{
+	height: 660px;
+	width: 350px;
+	float: left;
+	background-color: #f5f5f5;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.vivo12 img{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.meizu{
+	width: 670px;
+	height: 88px;
+	font-size: 34px;
+	background-color: #fff;
+	margin-top: 105px;
+	margin-left: 40px;
+}
+.x{
+	margin-top:50px;
+	width:750px;
+	height:200px;
+	background-color:white;
+}
+.y{
+	width:104px;
+	height:117px;
+	background-color:white;
+	margin-top:30px;
+	margin-left:20px;
+	float:left;
+}
+.z{
+    width:375px;
+    height:135px;
+    background-color:white;
+    margin-top:30px;
+    margin-left:20px;
+    float:left;
+}
+.one{
+	width:184px;
+	height:65px;
+	background-color:white;
+	margin-top:60px;
+	margin-left:20px;
+	float:left;
+}
+.two{
+	width:375px;
+	height:65px;
+	background-color:white;
+	color:#ea552e;
+	font-size:25px;
+}
+.three{
+	width:375px;
+	height:65px;
+	color:gray;
+}
+.four{
+	width:375px;
+	height:65px;
+	background-color:white;
+	color:#1c5080;
+	font-size:25px;
+}
+.five{
+	width:750px;
+	height:200px;
+	background-color:white;
+}
+.six{
+	width:750px;
+	height:450px;
+	background-color:#343235;
+	padding-top:2px;
+}
+.seven{
+	width:669px;
+	height:115px;
+	margin-top:50px;
+	margin-left:40px;
+}
+.top{
+	width: 750px;
+	height: 120px;
+	float: left;
+	margin: 0 auto;
+	border-top: 1px solid gray;
+	border-bottom: 2px solid black;
+}
+.logo{
+	padding-left: 40px;
+	padding-top: 25px;
+	float: left;
+}
+.ksdz{
+	float: left;
+}
+.ksdz button{
+	margin-top: 25px;
+	margin-left: 185px;
+	float: left;
+	width: 165px;
+	height: 55px;
+	background:#e8420a;
+	border-radius: 10px;
+	color: white;
+	font-size: 18px;
+}
+.ksdz img{
+	padding-left: 45px;
+	padding-top: 30px;
+	float: left;
+}
+.div{
+	width: 750px;
+	height: 3645px;
+	margin: 0 auto;
+}

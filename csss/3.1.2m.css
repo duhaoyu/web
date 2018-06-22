@@ -44,6 +44,9 @@
 	float: left;
 	margin: 0 auto;
 }
+.zhutu img{
+	float: left;
+}
 .jieshao{
 	width: 750px;
 	height: 300px;
@@ -194,7 +197,7 @@ h1{
 	height: 780px;
 	width: 668px;
 	float: left;
-	border: 0.5px solid gray;
+	border: 1px solid gray;
 	margin-top: 40px;
 	margin-left: 30px;
 }
