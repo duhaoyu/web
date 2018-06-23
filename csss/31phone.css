@@ -1,0 +1,315 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+
+body{
+	background-color: #f5f5f5;
+}
+.all{
+	width: 100%;
+	height: 5245px;
+}
+.vivo{
+	height: 120px;
+	width:100%;
+	float: left;
+}
+.vivo0{
+	height: 55px;
+	width: 165px;
+	text-align: center;
+	color: #fff;
+	font-size: 30px;
+	border-radius: 15px;
+	margin-top: 0px;
+	margin-left: 0px;
+	background-color: #e8420a;
+
+}
+.vivo4{
+	float: left;
+}
+.vivo5{
+	height: 55px;
+	width: 165px;
+	float: left;
+	margin-left: 200px;
+	margin-top: 30px;
+}
+.vivo6{
+	width: 55px;
+	height: 55px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 40px;
+}
+.vivo1{
+	height: 48px;
+	width: 48px;
+	float: left;
+}
+.vivo2{
+	margin-left: 670px;
+	margin-top: 33px;
+}
+.vivo3{
+	margin-left: 45px;
+	margin-top: 25px;
+}
+.oppo{
+	width:  750px;
+	height: 365px;
+	float: left;
+	margin-top: -6px;
+}
+.oppo0{
+	width: 750px;
+	height: 1100px;
+	float: left;
+}
+.oppo1{
+	width: 750px;
+	height: 98px;
+	margin-top: 10px;
+	float: left;
+}
+.oppo1 p{
+	font-size:30px;
+	margin-top: -43px; 
+	margin-left: 55px;
+}
+.oppo1 img{
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.oppo2{
+	height: 995px;
+	width: 750px;
+	float: left;
+}
+.oppo3{
+	color: #e8420a;
+}
+.oppo2 p{
+	font-size: 24px;
+	color: black;
+	margin-left: 100px;
+}
+.oppo4{
+	width:664px;
+	height:398px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 15px;
+}
+.oppo5{
+	width: 664px;
+	height: 75px;
+	float: left;
+	background:rgba(0,0,0,.6);
+	font-size: 26px;
+	text-align: center;
+	margin-top: 323px;
+}
+.oppo5 p{
+	margin-left: -10px;
+	margin-top: 15px;
+	color: #fff;
+}
+.oppo6{
+	font-size: 20px;
+}
+.oppo7{
+	font-size: 28px;
+	background-color: #fff;
+	width: 277px;
+	height: 56px;
+	border-radius:15px;
+	margin-left: 280px;
+	margin-top: 40px;
+}
+.hot{
+	height: 1940px;
+	width: 750px;
+	float: left;
+}
+.hot0{
+	width: 665px;
+	height: 395px;
+	float: left;
+	margin-left: 42px;
+	margin-top: 15px;
+}
+.hot1{
+	width:665px;
+	height: 120px;
+	float: left;
+	background:rgba(0,0,0,.6);
+	font-size: 26px;
+	line-height: 40px;
+	margin-top: 274px;
+}
+.hot1 p{
+	margin-left: 0px;
+	margin-top: 25px;
+}
+.hot2{
+	font-size: 20px;
+	margin-top: 5px;
+}
+.hot3{
+	margin-top: 5px;
+}
+.hot4{
+	width: 140px;
+	height: 120px;
+	float: left;
+	font-size: 26px;
+	margin-left: 170px;
+	line-height: 40px;
+	margin-top: 15px;
+	color: #fff;
+}
+.hot4 p{
+	margin-left: 0px;
+	margin-top: 25px;
+	color: #fff;
+}
+.hot5{
+	width:320px;
+	height: 120px;
+	float: left;
+	font-size: 26px;
+	margin-left: 30px;
+	line-height: 40px;
+}
+.hot5 p{
+	margin-left: 0px;
+	margin-top: 18px;
+
+	color: #fff;
+}
+.x{
+	margin-top:50px;
+	width:750px;
+	height:200px;
+	background-color:white;
+	float: left;
+}
+.y{
+	width:104px;
+	height:117px;
+	background-color:white;
+	margin-top:30px;
+	margin-left:20px;
+	float:left;
+}
+.z{
+    width:375px;
+    height:135px;
+    background-color:white;
+    margin-top:30px;
+    margin-left:20px;
+    float:left;
+}
+.one{
+	width:184px;
+	height:65px;
+	background-color:white;
+	margin-top:60px;
+	margin-left:20px;
+	float:left;
+	border-radius:15px;
+	font-size: 27px;
+}
+.two{
+	width:375px;
+	height:65px;
+	background-color:white;
+	color:#ea552e;
+	font-size:25px;
+}
+.three{
+	width:375px;
+	height:65px;
+	color:gray;
+}
+.four{
+	width:375px;
+	height:65px;
+	background-color:white;
+	color:#1c5080;
+	font-size:25px;
+}
+.five{
+	width:750px;
+	height:200px;
+	background-color:white;
+}
+.six{
+	width:100%;
+	height:450px;
+	background-color:#343235;
+	padding-top:2px;
+}
+.magua{
+	margin: 0 auto;
+	width: 675px;
+	height: 105px;
+}
+.seven{
+	width:669px;
+	height:115px;
+	margin-top:50px;
+	margin-left:40px;
+}
+.top{
+	width: 750px;
+	height: 120px;
+	float: left;
+	margin: 0 auto;
+	border-top: 1px solid gray;
+	border-bottom: 2px solid black;
+}
+.logo{
+	padding-left: 40px;
+	padding-top: 25px;
+	float: left;
+}
+.ksdz{
+	float: left;
+}
+.ksdz button{
+	margin-top: 25px;
+	margin-left: 185px;
+	float: left;
+	width: 165px;
+	height: 55px;
+	background:#e8420a;
+	border-radius: 10px;
+	color: white;
+	font-size: 18px;
+}
+.ksdz img{
+	padding-left: 45px;
+	padding-top: 30px;
+	float: left;
+}
+.map{
+	height: 555px;
+	width: 750px;
+	float: left;
+}
+.zyz{
+	width: 750px;
+	height: 4640px;
+	margin: 0 auto;
+	background-color: #
+}
