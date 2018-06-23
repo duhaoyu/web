@@ -1,0 +1,258 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.big{
+	width: 750px;
+	margin: 0 auto;
+}
+.top{
+	width: 750px;
+	height: 120px;
+	float: left;
+	margin: 0 auto;
+	border-top: 1px solid gray;
+	border-bottom: 2px solid black;
+}
+.logo{
+	padding-left: 40px;
+	padding-top: 25px;
+	float: left;
+}
+.ksdz{
+	float: left;
+}
+.ksdz button{
+	margin-top: 25px;
+	margin-left: 185px;
+	float: left;
+	width: 165px;
+	height: 55px;
+	background:#e8420a;
+	border-radius: 10px;
+	color: white;
+	font-size: 18px;
+}
+.ksdz img{
+	padding-left: 45px;
+	padding-top: 30px;
+	float: left;
+}
+.txdd{
+	height: 50px;
+	width: 750px;
+	float: left;
+	margin: 0 auto;
+	background-color: #f5f5f5;
+}
+.txdd p{
+	color: #1c5080;
+	font-size: 26px;
+	padding-top: 10px;
+}
+.dd{
+	width: 750px;
+	height: 280px;
+	float: left;
+	
+}
+h1{
+	color: black;
+	font-size: 32px;
+}
+.dd p{
+	padding-top: 20px;
+	font-size: 22px;
+	color: black;
+	line-height: 50px;
+}
+.huik{
+	background-color: #f5f5f5;
+}
+.wxts{
+	color: red;
+	font-size: 18px;
+}
+.huitiao{
+	float: left;
+	height: 20px;
+	width: 750px;
+	background-color: #f5f5f5;
+}
+.lianxi{
+	width: 750px;
+	height: 300px;
+	float: left;
+}
+h2{
+	font-size: 28px;
+}
+.lianxi p{
+	font-size: 22px;
+	color: #666666;
+}
+.lxr{
+	font-size: 22px;
+	padding-top: 50px;
+}
+.sjh{
+	font-size: 22px;
+	padding-top: 20px;
+}
+.star{
+	color: red;
+}
+h3{
+	font-size: 28px;
+	line-height: 80px;
+}
+.cxr{
+	height: 680px;
+	float: left;
+	margin: 0 auto;
+}
+.cxr p{
+	font-size: 22px;
+	color: #666666;
+}
+.one img{
+	float: left;
+}
+.one p{
+	float: left;
+	color: #1c5080;
+	line-height: 40px;
+}
+.cxr1{
+	font-size: 22px;
+	padding-top: 30px;
+}
+
+.lianxi input{
+	width: 250px;
+	height: 35px;
+	font-size: 16px;
+}
+.cxr input{
+	width: 250px;
+	height: 35px;
+	font-size: 16px;
+}
+.heng{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 750px;
+}
+.heng img{
+	width: 750px;
+}
+.bzsm{
+	width: 750px;
+	height: 450px;
+	float: left;
+	margin: 0 auto;
+}
+.bzsm p{
+	font-size: 22px;
+	color: #666666;
+}
+.shuru{
+	width: 705px;
+	height: 300px;
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+}
+.jsd{
+	width: 100%;
+	height: 450px;
+	float: left;
+	margin: 0 auto;
+	background-color: #f5f5f5;
+}
+.jsd p{
+	font-size: 24px;
+	padding-top: 30px;
+}
+.jsd img{
+	padding-left: 35px;
+	width: 680px;
+}
+.right{
+	float: left;
+	padding-left: 400px;
+}
+.money{
+	color: #e8420a;
+	font-size: 40px;
+}
+.di{
+	width: 100%;
+	height: 350px;
+	float: left;
+	margin: 0 auto;
+}
+.di button{
+	width: 318px;
+	height: 75px;
+	background-color: #e8420a;
+	font-size: 34px;
+	color: white;
+	float: left;
+	margin-top: 80px;
+	margin-left: 30px;
+}
+.btn button{
+	width: 318px;
+	height: 75px;
+	background-color: #f5f5f5;
+	font-size: 34px;
+	color: #666666;
+	float: left;
+	margin-top: 80px;
+}
+.wqxy{
+	color: blue;
+}
+.ty{
+	width: 100%;
+	height: 150px;
+	float: left;
+	padding-left: 220px;
+	padding-top: 50px;
+}
+.dibu{
+	width: 750px;
+	height: 485px;
+	float: left;
+	margin: 0 auto;
+	background-color: #343235;
+}
+.zxrx{
+	width: 675px;
+	height: 105px;
+	float: left;
+	border: 5px solid #c2c2c3;
+	margin-left: 35px;
+	margin-top: 65px;
+}
+h4{
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+}
+.dibu p{
+	margin-top: 20px;
+	color: white;
+	font-size: 22px;
+	float: left;
+	margin-left: 170px;
+}
+.dizhi{
+	float: left;
+	margin-top: 50px;
+	color: white;
+	font-size: 22px;
+	margin-left: 150px;
+}
